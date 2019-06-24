@@ -1,0 +1,1 @@
+g++ -o build/ec_demo.exe -std=c++17 -Wall -Wextra EllipticCurve.cpp
